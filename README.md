@@ -1,1 +1,2 @@
 # MADproject
+Nowadays, there is a plethora of different apps and games that people from around the world use to entertain themselves. UCA campus is not an exception: it is full of faculty and students who live in the isolated community in the campus of Naryn. Therefore, we came up with an idea to create a game that will be uniting two most popular activities on campus. The aim of the given project is to come up with an app for entertainment that will be both engaging and intellectually stimulating.
